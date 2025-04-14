@@ -31,7 +31,7 @@ Now coding with passion — [Wild Code School](https://www.wildcodeschool.com/) 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thibaud-Guadagna&show_icons=true&theme=tokyonight)
 
 ---
 
