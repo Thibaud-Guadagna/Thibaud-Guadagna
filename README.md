@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hey there!
 
 From recruitment consulting to full-stack development.  
@@ -8,7 +10,7 @@ Now coding with passion — [Wild Code School](https://www.wildcodeschool.com/) 
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
@@ -25,14 +27,18 @@ Now coding with passion — [Wild Code School](https://www.wildcodeschool.com/) 
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ton-profil)
+<a href="https://www.linkedin.com/in/thibaud-guadagna-893124186" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thibaud-Guadagna&show_icons=true&theme=tokyonight)
+![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thibaud-Guadagna&show_icons=true&theme=tokyonight)
 
 ---
 
-> "Coffee, code, repeat." ☕
+> "Coffee, code, repeat." ☕  
+
+</div>
