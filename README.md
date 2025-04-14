@@ -39,4 +39,6 @@ Now coding with passion — [Wild Code School](https://www.wildcodeschool.com/) 
 
 ---
 
->
+> "Coffee, code, repeat." ☕  
+
+</div>
